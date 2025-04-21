@@ -94,7 +94,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
+        description: "有志者，事竟成。",
         intro: "/zh/intro.html",
       },
 
