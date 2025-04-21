@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mister-hope.github.io/HQSIM/sitemap.xml
+Sitemap: https://mister-hope.github.io/blog.hqsim.com/sitemap.xml
