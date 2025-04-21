@@ -3,7 +3,7 @@ title: 编程语言
 index: false
 icon: laptop-code
 category:
-  - 使用指南
+  - 软件开发
 ---
 
 <Catalog />

@@ -1,14 +1,14 @@
 ---
-title: Python 编程语言全解：起源、设计哲学、使用技巧与应用场景
+title: Python 编程语言全解
 icon: gears
 order: 4
 category:
-  - 使用指南
+  - 软件开发
 tag:
   - 禁用
 
 navbar: true
-sidebar: false
+sidebar: true
 
 breadcrumb: false
 pageInfo: false
@@ -22,7 +22,7 @@ footer: false
 
 backtotop: false
 
----
+--- markdown
   
 # [Python] 编程语言全解：起源、设计哲学、使用技巧与应用场景
 
