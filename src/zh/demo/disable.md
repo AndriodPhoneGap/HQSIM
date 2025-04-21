@@ -26,7 +26,7 @@ backtotop: false
   
 # [Python] 编程语言全解：起源、设计哲学、使用技巧与应用场景
 
- ![Logo](/logo.png)
+ ![Python](/assets/images/python-logo-master-v3-TM.png)
 
 > *“Beautiful is better than ugly. Simple is better than complex.”*  
 > ——《The Zen of Python》
