@@ -8,7 +8,7 @@ tag:
   - 禁用
 
 navbar: true
-sidebar: true
+# sidebar: true
 
 breadcrumb: false
 pageInfo: false
