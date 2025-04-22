@@ -1,9 +1,10 @@
 ---
-title: Features demo
+
+title: 编程语言
 index: false
 icon: laptop-code
 category:
-  - Guide
+  - 软件开发
 ---
 
 <Catalog />

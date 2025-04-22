@@ -1,10 +1,10 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const enSidebar = sidebar({
-  "/": [
+  "/en/": [
     "",
     {
-      text: "Demo",
+      text: "编程语言",
       icon: "laptop-code",
       prefix: "demo/",
       link: "demo/",

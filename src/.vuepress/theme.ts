@@ -71,7 +71,7 @@ export default hopeTheme({
 
       blog: {
         description: "A FrontEnd programmer",
-        intro: "/intro.html",
+        intro: "/en/intro.html",
       },
 
       metaLocales: {
@@ -107,7 +107,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": {
+      "/en/demo/encrypt.html": {
         hint: "Password: 1234",
         password: "1234",
       },
