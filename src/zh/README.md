@@ -2,10 +2,11 @@
 home: true
 layout: BlogHome
 icon: house
-title: 首页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: HQSIM
-heroFullScreen: true
+title: 首页 
+bgImage: /assets/images/aiwang.png 
+# heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+# heroText: HQSIM
+heroFullScreen: true 
 tagline: 江湖路远，愿你披荆斩棘，不负少年志。
 projects:
   - icon: folder-open

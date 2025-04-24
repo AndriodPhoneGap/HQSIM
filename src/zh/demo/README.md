@@ -1,5 +1,5 @@
 ---
-title: 编程语言
+title: 编程
 index: false
 icon: laptop-code
 category:

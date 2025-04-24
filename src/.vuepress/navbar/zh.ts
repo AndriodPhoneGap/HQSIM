@@ -3,47 +3,27 @@ import { navbar } from "vuepress-theme-hope";
 export const zhNavbar = navbar([
   "/zh/",
   "/zh/demo/",
+  , 
   {
-    text: "后端开发",
-    icon: "pen-to-square",
-    prefix: "/zh/posts/",
-    children: [
-      {
-        text: "协议",
-        icon: "pen-to-square",
-        prefix: "协议/",
-        children: [
-          { text: "MCP服务", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
-        ],
-      },
-      {
-        text: "香蕉",
-        icon: "pen-to-square",
-        prefix: "banana/",
-        children: [
-          {
-            text: "香蕉 1",
-            icon: "pen-to-square",
-            link: "1",
-          },
-          {
-            text: "香蕉 2",
-            icon: "pen-to-square",
-            link: "2",
-          },
-          "3",
-          "4",
-        ],
-      },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
-    ],
+    text: "三农",
+    link: "/zh/三农/README.md",
+    icon: "featuresNew",
   },
+  {
+    text: "情感",
+    link: "/zh/情感/README.md",
+    icon: "featuresNew",
+  }, 
+  {
+    text: "生活",
+    link: "/zh/生活/README.md",
+    icon: "featuresNew",
+  }, 
+  {
+    text: "科技",
+    link: "/zh/科技/README.md",
+    icon: "featuresNew",
+  }, 
   {
     text: "ShopPing",
     icon: "shopping", 
