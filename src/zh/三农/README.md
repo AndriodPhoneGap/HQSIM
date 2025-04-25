@@ -8,7 +8,11 @@ icon: featuresNew
 
 ## 生活
 
-- [<ColorIcon icon="restfulFastRequest" /> 让图标动起来](./makeIconMove.md) 
+- [<ColorIcon icon="restfulFastRequest" /> 智慧农业：科技赋能未来农业的新篇章](./智慧农业.md) 
+
+- [<ColorIcon icon="restfulFastRequest" /> 危机与转机：2025年农资行业的生存之道](./农资行业的十字路口.md) 
+
+- [<ColorIcon icon="restfulFastRequest" /> 农业“提产神器”：钾肥的前世今生与科学施用指南](./钾肥.md) 
 
 ## 发展
 
